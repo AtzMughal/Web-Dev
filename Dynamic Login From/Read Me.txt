@@ -1,0 +1,77 @@
+# Login/Sign-up Page
+
+## Introduction
+This project contains two main files that together create a simple web page:
+- `index.html`
+- `style.css`
+
+
+
+
+## Instructions to View the Web Page on a Computer
+
+1. **Download the Project Files**
+   - Click on the green "Code" button on the GitHub repository page.
+   - Select "Download ZIP" and save the ZIP file to your computer.
+   - Unzip the downloaded file to extract the project folder.
+
+2. **Navigate to the Project Folder**
+   - Open the extracted folder. You should see the files `index.html`, `style.css` and possibly other files or folders.
+
+3. **Open the HTML File in a Browser**
+   - Locate the `index.html` file within the project folder.
+   - Double-click on the `index.html` file.
+   - The file should automatically open in your default web browser and display the web page.
+
+
+
+### Alternative Method to Open the Web Page on a Computer
+
+1. **Using a Web Browser**
+   - Open your preferred web browser (e.g., Google Chrome, Firefox, Safari).
+   - Drag and drop the `index.html` file from the project folder into the browser window.
+
+2. **Using the Browser's File Open Feature**
+   - Open your web browser.
+   - Press `Ctrl + O` (or `Cmd + O` on Mac) to open the file dialog.
+   - Navigate to the project folder and select the `index.html` file.
+   - Click "Open" to view the web page.
+
+
+
+
+
+## Instructions to View the Web Page on a Mobile Phone
+
+1. **Download the Project Files**
+   - Visit the GitHub repository page in your mobile browser.
+   - Click on the green "Code" button and select "Download ZIP".
+   - Save the ZIP file to your mobile device.
+
+2. **Extract the ZIP File**
+   - Use a file manager app to locate the downloaded ZIP file.
+   - Extract the contents of the ZIP file. You should see a folder containing `index.html`, `style.css` and possibly other files or folders.
+
+3. **Open the HTML File in a Mobile Browser**
+   - Open your file manager app and navigate to the extracted folder.
+   - Locate the `index.html` file.
+   - Tap on the `index.html` file.
+   - Select your preferred web browser (e.g., Chrome, Safari) from the list of apps to open the file.
+   - The file should open in the browser and display the web page.
+
+
+
+
+
+## Additional Information
+
+- Ensure all files (`index.html`, `style.css`) are in the same directory for the page to display correctly.
+- If you encounter any issues, please check that your web browser is up to date.
+
+
+
+Enjoy exploring the project!
+
+---
+
+Feel free to reach out if you have any questions.
