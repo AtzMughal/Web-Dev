@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Placeholder text styling */
+::placeholder {
+    color: rgb(221, 221, 221);
+}
+
+/* Wrapper styling to center content */
+.wrapper {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: #485563;
+    background: linear-gradient(to right, #29323c, #485563);
+    transition: 0.8s all;
+}
+
+h1 {
+    margin-bottom: 1.5%;
+    color: #fff;
+    font-weight: normal;
+}
+
+.container {
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.top-buttons {
+    display: flex;
+    align-items: center;
+}
+
+input {
+    padding: 22px;
+    color: rgb(255, 255, 255);
+    font-size: 1em;
+    cursor: pointer;
+    width: 70px;
+    background-color: #2C3539;
+    border: none;
+    outline: none;
+    border-radius: 100px;
+    margin: 0.2em;
+}
+
+.first-row,
+.second-row,
+.third-row,
+.fourth-row,
+.fifth-row {
+    margin-bottom: 4px;
+}
+
+/* Text input styling */
+input[type="text"] {
+    background-color: #2C3539;
+    width: 230px;
+}
+
+/* Button hover effect */
+input[type="button"]:hover {
+    background-color: rgb(101, 101, 101);
+    color: #fff;
+}
+
+/* Clear button styling */
+#clear-button {
+    color: #fff;
+    background-color: rgba(255, 42, 42, 0.801);
+}
+
+#clear-button:hover {
+    background-color: red;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#github-icon {
+    margin-right: 10px;
+}
+
+#git-container>svg:hover {
+    height: 23px;
+    width: 23px;
+    transition: 0.2s;
+}
+
+.copyright {
+    color: white !important;
+    display: flex;
+    font-size: 12px;
+    margin-top: 70px !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright>a:hover {
+    color: rgb(140, 136, 136);
+    text-decoration: underline;
+    font-size: 13px;
+    transition: 0.3s;
+}
